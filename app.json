@@ -1,0 +1,13 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/logs/logs",
+    "pages/detail/detail"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#42bd56",
+    "navigationBarTitleText": "豆瓣demo",
+    "navigationBarTextStyle": "white"
+  }
+}
